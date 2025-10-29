@@ -44,7 +44,9 @@ The app combines **Quran reading, translations, prayer times, Hijri calendar, fa
 
 
 <br>
+
 ## Screens:- <br>
+
 <br> **HomePage:** <br>
 
 
@@ -57,7 +59,7 @@ The app combines **Quran reading, translations, prayer times, Hijri calendar, fa
 
 
 <br> **Read Holy Quran Page:** <br>
-<img width="311" height="513" alt="image" src="https://github.com/user-attachments/assets/1e3607c7-506e-492e-9c52-0aed005b3479"/>
+<img width="305" height="490" alt="image" src="https://github.com/user-attachments/assets/1e3607c7-506e-492e-9c52-0aed005b3479"/>
 
 
 
