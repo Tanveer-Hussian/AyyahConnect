@@ -68,7 +68,13 @@ The app combines **Quran reading, translations, prayer times, Hijri calendar, fa
 
 
 <br> **Prayer Times Page:** <br>
-<img width="300" height="490" alt="image" src="https://github.com/user-attachments/assets/81e3839e-6210-4e85-a2f5-82135b96487b"/>
+<img width="300" height="495" alt="image" src="https://github.com/user-attachments/assets/81e3839e-6210-4e85-a2f5-82135b96487b"/>
+
+
+
+<br> **About Us Page:** <br>
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/7701a0fb-60d7-4ea4-bcaa-1bdf987feadf"/>
+
 
 
 
