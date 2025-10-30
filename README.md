@@ -59,7 +59,13 @@ The app combines **Quran reading, translations, prayer times, Hijri calendar, fa
 
 
 <br> **Read Holy Quran Page:** <br>
-<img width="305" height="490" alt="image" src="https://github.com/user-attachments/assets/1e3607c7-506e-492e-9c52-0aed005b3479"/>
+<img width="245" height="505" alt="image" src="https://github.com/user-attachments/assets/1e3607c7-506e-492e-9c52-0aed005b3479"/>
+&ensp; 
+<img width="245" height="505" alt="image" src="https://github.com/user-attachments/assets/8aa74d0c-711e-437c-9712-026e431392c2"/>
+&ensp; 
+<img width="245" height="505" alt="image" src="https://github.com/user-attachments/assets/1fcbd3e6-1c0e-4a23-8992-4e8dacfee088"/>
+
+
 
 
 
